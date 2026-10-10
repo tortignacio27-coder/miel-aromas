@@ -1,0 +1,22 @@
+MIEL AROMAS — TIENDA ONLINE
+
+Archivos:
+- index.html: página principal de la tienda.
+- assets/: logo y fotografías de productos.
+
+Configuración actual:
+- WhatsApp: +598 91618454
+- Entrega: envío a domicilio o retiro, a coordinar.
+- Pago: efectivo o transferencia.
+- Moneda: pesos uruguayos ($U).
+
+Precios:
+- Vela Flor: $U 290
+- Colección Navideña: $U 400
+- Árboles decorativos: $U 150
+- Mano Hamsa: $U 290
+- Velas aromáticas: $U 400
+- Vela Bubble: $U 250
+- Vela apilada: $U 290
+
+Para probar la web, abrir index.html en un navegador. Para que esté disponible públicamente, subir toda la carpeta (index.html y assets) a un servicio de alojamiento web estático. El checkout envía el pedido por WhatsApp; no procesa pagos automáticamente.
